@@ -16,4 +16,4 @@ Android Library for wrap content ViewPager
 		implementation 'com.github.dominicg666:WrappingViewPager:1.0'
 	}
 
-![Alt Text](https://github.com/dominicg666/WrappingViewPager/blob/master/ezgif.com-video-to-gif%20(1).gif)
+![Alt Text](https://github.com/dominicg666/WrappingViewPager/blob/master/ezgif.com-video-to-gif%20(1).gif =300x600)
