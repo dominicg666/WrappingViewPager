@@ -4,7 +4,7 @@ Android Library for wrap content ViewPager
 <img src="https://github.com/dominicg666/WrappingViewPager/blob/master/ezgif.com-video-to-gif%20(1).gif" width="300">
 
 
- #gradle
+ # gradle
   Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
@@ -19,7 +19,7 @@ Android Library for wrap content ViewPager
 		implementation 'com.github.dominicg666:WrappingViewPager:1.0'
 	}
 	
-#Example	
+# Example	
 
 	<viewpagerwc.ui.dom.wrapping.WrappingViewPager
         android:id="@+id/viewpager"
