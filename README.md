@@ -18,3 +18,12 @@ Android Library for wrap content ViewPager
 	dependencies {
 		implementation 'com.github.dominicg666:WrappingViewPager:1.0'
 	}
+	
+#Example	
+
+	<viewpagerwc.ui.dom.wrapping.WrappingViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorAccent" />
