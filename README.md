@@ -16,7 +16,7 @@ Android Library for wrap content ViewPager
  Add the dependency
 
 	dependencies {
-		implementation 'com.github.dominicg666:WrappingViewPager:1.0'
+		implementation 'com.github.dominicg666:WrappingViewPager:1.2'
 	}
 	
 # Example	
